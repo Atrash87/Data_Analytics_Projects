@@ -13,7 +13,8 @@ I conducted a short survey on social media and collected user responses, includi
 ## Tools Used
 
 - **SQL Server** for querying and analysis  
-- **Excel/CSV** for initial data  
+- **Excel/CSV** for initial data
+- **Power Bi** for data visualization 
 - **AI tools** to simulate additional data while keeping patterns consistent
 
 ---
