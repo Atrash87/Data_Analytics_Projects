@@ -4,7 +4,7 @@ This folder contains all SQL queries used to analyze and extract insights from t
 
 ---
 
-## 📄 Query Summary
+##  Query Summary
 
 ## 1. Data Cleansing
 
