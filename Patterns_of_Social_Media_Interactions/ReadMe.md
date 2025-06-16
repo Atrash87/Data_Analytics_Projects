@@ -1,4 +1,4 @@
-# 📊 Social Media Interaction Analysis
+#  Social Media Interaction Analysis
 
 This project explores social media usage patterns using data collected from a reel-based survey. The goal is to understand how demographics and behavior relate to activity levels and happiness on social platforms.
 
