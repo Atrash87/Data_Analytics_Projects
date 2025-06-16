@@ -4,13 +4,13 @@ This project explores social media usage patterns using data collected from a re
 
 ---
 
-## 📝 Overview
+## Overview
 
 I conducted a short survey on social media and collected user responses, including age, gender, daily usage, platform preferences, and self-reported happiness. To enrich the dataset while preserving trends, I expanded it using AI-generated data for better visual representation and deeper insights.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **SQL Server** for querying and analysis  
 - **Excel/CSV** for initial data  
@@ -18,7 +18,7 @@ I conducted a short survey on social media and collected user responses, includi
 
 ---
 
-## 📂 Dataset Columns
+##  Dataset Columns
 
 - `Gender`
 - `AgeGroup`
@@ -30,7 +30,7 @@ I conducted a short survey on social media and collected user responses, includi
 
 ---
 
-## 🔍 Key SQL Queries
+##  Key SQL Queries
 
 - **Gender & Age Group Counts**
 - **Daily Usage vs. Average Happiness**
@@ -45,7 +45,7 @@ Each query helps uncover trends in how different user groups interact with socia
 
 ---
 
-## 📈 Possible Extensions
+##  Possible Extensions
 
 - Add visualizations using Power BI or Python  
 - Automate survey collection via Google Forms  
@@ -53,7 +53,7 @@ Each query helps uncover trends in how different user groups interact with socia
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - SQL grouping, aggregation, and string handling  
 - Cleaning and transforming messy data  
@@ -62,7 +62,7 @@ Each query helps uncover trends in how different user groups interact with socia
 
 ---
 
-## 🤝 Get in Touch
+##  Get in Touch
 
 Feel free to connect if you’d like to discuss the project or explore collaborations!
 
